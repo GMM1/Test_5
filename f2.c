@@ -4,3 +4,4 @@
 // And a fourth line on local machine on master
 // Adding a fifth line to file on github.com
 // Adding a sixth line to file in Test5_a on local machine
+// Adding a seventh line while in test5_a_branch
